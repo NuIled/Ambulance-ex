@@ -1,2 +1,0 @@
-# Ambulance-Casablanca
-Ambulance Casablanca
