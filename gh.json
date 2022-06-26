@@ -1,13 +1,13 @@
 {
   "GuideData": {
     "AdsController": {
-      "applovin_banner_id_1": "3b427f96bce25293",
-      "applovin_banner_id_2": "3b427f96bce25293",
-      "applovin_inter_id": "125b3ad430d0ef45",
+      "applovin_bannerId_1": "3b427f96bce25293",
+      "applovin_bannerId_2": "3b427f96bce25293",
+      "applovin_interId": "125b3ad430d0ef45",
       "interadmob": "ca-app-pub-3940256099942544/1033173712",
 	  "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-      "status_banner": "startapp",
-      "status_inter": "startapp",
+      "statusBanner": "startapp",
+      "statusInter": "startapp",
       "status_loadAds": "startapp",
       "unity_GameID": "4710101"
     }
