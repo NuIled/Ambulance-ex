@@ -1,9 +1,9 @@
 {
   "GuideData": {
     "AdsController": {
-      "applovin1": "eea2877a690916b9",
-      "applovin2": "eea2877a690916b9",
-      "applovin": "83a0ba1f09e00691",
+      "applovin_bannerId_1": "eea2877a690916b9",
+      "applovin_bannerId_2": "eea2877a690916b9",
+      "applovin_interId": "83a0ba1f09e00691",
       "interadmob": "ca-app-pub-1565542476160341/9626170436",
 	  "BannerAdmob": "ca-app-pub-1565542476160341/4586145485",
       "statusBanner": "startapp",
