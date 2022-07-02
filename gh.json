@@ -6,9 +6,9 @@
       "applovin": "83a0ba1f09e00691",
       "interadmob": "ca-app-pub-3940256099942544/1033173712",
 	  "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-      "statusBanner": "startup",
-      "statusInter": "startup",
-      "status_loadAds": "startup",
+      "statusBanner": "startapp",
+      "statusInter": "startapp",
+      "status_loadAds": "startapp",
       "unity_GameID": "4710101"
     }
   }
