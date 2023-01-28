@@ -1,0 +1,32 @@
+{
+    "ads": {
+
+            "_status_ads": "off",
+            
+            
+            "_admob_application_id": "ca-app-pub-3940256099942544~3347511713",
+			"_admob_interstitial": "",
+			"_admob_banner_1": "",
+			"_admob_banner_2": "",
+		    "_admob_Native": "ca-app-pub-3940256099942544/1044960115",
+    
+	
+            "_test_mode": "yes",
+			 "_unityGameID": "4710101",
+           
+		   
+            "_applovin_inter_id": "125b3ad430d0ef45",
+			"_applovin_banner_id_1": "3b427f96bce25293",
+			"_applovin_banner_id_2": "3b427f96bce25293",
+			"_maxNative_id": "7e1dde47b65bc721",
+			
+			
+			"_startApp_ID": "203398230",
+			
+			"_gameUrl": "https://html5.gamedistribution.com/899c82ac71ba4dd5a571fc9bc35f55f8/?gd_sdk_referrer_url=https%3A%2F%2Fwww.y8.com%2Fgames%2Fsoccer_skills_euro_cup_2021_edition&key=y8&value=default%22"
+
+        }
+    
+
+    
+}
