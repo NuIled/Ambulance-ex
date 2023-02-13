@@ -4,11 +4,11 @@
             "_status_ads": "admob",
             
             
-            "_admob_application_id": "ca-app-pub-6788521543751081~3776768953",
-			"_admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-			"_admob_banner_1": "ca-app-pub-6788521543751081~3776768953",
-			"_admob_banner_2": "ca-app-pub-6788521543751081~3776768953",
-		    "_admob_Native": "ca-app-pub-6788521543751081~3776768953",
+            "_admob_application_id": "ca-app-pub-6788521543751081",
+			"_admob_interstitial": "ca-app-pub-6788521543751081/3923612142",
+			"_admob_banner_1": "ca-app-pub-6788521543751081/2802102160",
+			"_admob_banner_2": "ca-app-pub-6788521543751081/9175938829",
+		    "_admob_Native": "ca-app-pub-6788521543751081/6549775485",
     
 	
             "_test_mode": "yes",
